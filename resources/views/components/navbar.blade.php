@@ -48,7 +48,7 @@
 }">
     <div class="flex pt-6 pb-4 pl-3">
         <div class="flex flex-col w-full">
-            <div class="text-2xl font-bold tracking-wide dark:text-white">Coolify</div>
+            <div class="text-2xl font-bold tracking-wide dark:text-white">Toolzz Cloud</div>
             <x-version />
         </div>
         <div class="pt-1">
